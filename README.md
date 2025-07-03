@@ -117,3 +117,4 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 -remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+##hack for KBZ play..000
